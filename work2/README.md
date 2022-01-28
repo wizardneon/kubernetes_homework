@@ -1,4 +1,4 @@
-# kubernetes_homework
+# kubernetes_homework 2
 
 ![alt text](./work2.jpg)
 слева вверху на фото результат баш скрипта-распределение трафика при 10% за 100 запросов
